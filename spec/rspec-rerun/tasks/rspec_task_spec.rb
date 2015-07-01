@@ -124,5 +124,4 @@ describe 'RakeTask' do
       expect(run).to include '--pattern deliberately-left-blank'
     end
   end
-
 end
